@@ -1,0 +1,7 @@
+D:\Program Files (x86)\NakkiVisual\programms\firstTask\firstTask\bin\Debug\firstTask.exe.config
+D:\Program Files (x86)\NakkiVisual\programms\firstTask\firstTask\bin\Debug\firstTask.exe
+D:\Program Files (x86)\NakkiVisual\programms\firstTask\firstTask\bin\Debug\firstTask.pdb
+D:\Program Files (x86)\NakkiVisual\programms\firstTask\firstTask\obj\Debug\firstTask.csprojAssemblyReference.cache
+D:\Program Files (x86)\NakkiVisual\programms\firstTask\firstTask\obj\Debug\firstTask.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\NakkiVisual\programms\firstTask\firstTask\obj\Debug\firstTask.exe
+D:\Program Files (x86)\NakkiVisual\programms\firstTask\firstTask\obj\Debug\firstTask.pdb
